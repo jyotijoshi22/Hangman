@@ -1,6 +1,6 @@
 # Hangman
 
-MVP
+
 The project is a version of the game Hangman to be played in a Java console application.
 The game  randomly select a word from the provided list.
 When the word is selected, a row of underscores representing letters in the word are printed to the console.
